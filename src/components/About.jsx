@@ -1,9 +1,11 @@
 import React from "react";
-
+import web from "../images/2.gif";
+import { NavLink } from "react-router-dom";
+import Common from "./Common";
 const About = () =>{
   return(
     <>
-      <h1>Welcome to About page !</h1>
+      <Common />
     </>
   );
 };

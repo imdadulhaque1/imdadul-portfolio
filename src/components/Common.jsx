@@ -1,8 +1,8 @@
 import React from "react";
-import web from "../images/girl_3.gif"
+import web from "../images/2.gif";
 import { NavLink } from "react-router-dom";
 
-const Home = () =>{
+const Common = () =>{
   return(
     <>
       <section id="header" className="d-flex align-items-center">
@@ -12,7 +12,7 @@ const Home = () =>{
               <div className="row">
                <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                  <h1>
-                   Grow your business with <strong className="brand-name">Imdadul Haque</strong>
+                   Welcome to Common Page <strong className="brand-name">Imdadul Haque</strong>
                  </h1>
                  <h2 className="my-3">
                    We are team of talented developer making websites
@@ -26,7 +26,7 @@ const Home = () =>{
                </div>
 
                <div className="col-lg-6 order-1 order-lg-2 header-img">
-                 <img src={web} className="img-fluid animated" alt="home Image" />
+                 <img src={web} className="img-fluid animated" alt="Common Image" />
                </div>
                </div>
             </div>
@@ -36,4 +36,4 @@ const Home = () =>{
     </>
   );
 };
-export default Home;
+export default Common;
