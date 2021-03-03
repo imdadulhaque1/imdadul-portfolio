@@ -1,9 +1,9 @@
-import App from "../images/favo.jpg";
-import Development from "../images/imdad.jpg";
-import MobileDevelopment from "../images/hh.jpg";
-import React from "../images/react.png";
-import SoftareDevelopment from "../images/soft.jpg";
-import AI from "../images/kno.jpg";
+import App from "../images/favo_1.jpg";
+import Development from "../images/imdad_1.jpg";
+import MobileDevelopment from "../images/hh_1.jpg";
+import React from "../images/react_1.png";
+import SoftareDevelopment from "../images/ty_1.jpg";
+import AI from "../images/kno_1.jpg";
 
 const Sdata =[
     {
@@ -28,6 +28,8 @@ const Sdata =[
     },
     {
         imgsrc: AI,
-        title: "Learning AI"
-    }
-]
+        title: "Learning AI",
+    },
+];
+
+export default Sdata;
