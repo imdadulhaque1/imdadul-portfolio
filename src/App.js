@@ -7,6 +7,7 @@ import Contact from "../src/components/Contact";
 import Service from "../src/components/Service";
 import Navbar from "../src/components/Header/Navbar";
 import { Switch, Route, Redirect} from "react-router-dom";
+import Footer from "./components/Footer";
 
 const App = () =>{
   return(
@@ -19,6 +20,7 @@ const App = () =>{
         <Route exact  path="/contact" component= {Contact} />
         <Redirect to="/" />
       </Switch>
+      <Footer />
     </>
   );
 };
