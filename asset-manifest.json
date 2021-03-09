@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/imdadul-portfolio/static/css/main.1a358431.chunk.css",
-    "main.js": "/imdadul-portfolio/static/js/main.a840d6ce.chunk.js",
-    "main.js.map": "/imdadul-portfolio/static/js/main.a840d6ce.chunk.js.map",
-    "runtime-main.js": "/imdadul-portfolio/static/js/runtime-main.319df09d.js",
-    "runtime-main.js.map": "/imdadul-portfolio/static/js/runtime-main.319df09d.js.map",
+    "main.js": "/imdadul-portfolio/static/js/main.57006726.chunk.js",
+    "main.js.map": "/imdadul-portfolio/static/js/main.57006726.chunk.js.map",
+    "runtime-main.js": "/imdadul-portfolio/static/js/runtime-main.0929be25.js",
+    "runtime-main.js.map": "/imdadul-portfolio/static/js/runtime-main.0929be25.js.map",
     "static/css/2.78afd4a5.chunk.css": "/imdadul-portfolio/static/css/2.78afd4a5.chunk.css",
-    "static/js/2.6bdac34c.chunk.js": "/imdadul-portfolio/static/js/2.6bdac34c.chunk.js",
-    "static/js/2.6bdac34c.chunk.js.map": "/imdadul-portfolio/static/js/2.6bdac34c.chunk.js.map",
-    "static/js/3.702a5274.chunk.js": "/imdadul-portfolio/static/js/3.702a5274.chunk.js",
-    "static/js/3.702a5274.chunk.js.map": "/imdadul-portfolio/static/js/3.702a5274.chunk.js.map",
+    "static/js/2.530d2fdb.chunk.js": "/imdadul-portfolio/static/js/2.530d2fdb.chunk.js",
+    "static/js/2.530d2fdb.chunk.js.map": "/imdadul-portfolio/static/js/2.530d2fdb.chunk.js.map",
+    "static/js/3.017a40b2.chunk.js": "/imdadul-portfolio/static/js/3.017a40b2.chunk.js",
+    "static/js/3.017a40b2.chunk.js.map": "/imdadul-portfolio/static/js/3.017a40b2.chunk.js.map",
     "index.html": "/imdadul-portfolio/index.html",
     "static/css/2.78afd4a5.chunk.css.map": "/imdadul-portfolio/static/css/2.78afd4a5.chunk.css.map",
     "static/css/main.1a358431.chunk.css.map": "/imdadul-portfolio/static/css/main.1a358431.chunk.css.map",
-    "static/js/2.6bdac34c.chunk.js.LICENSE.txt": "/imdadul-portfolio/static/js/2.6bdac34c.chunk.js.LICENSE.txt",
+    "static/js/2.530d2fdb.chunk.js.LICENSE.txt": "/imdadul-portfolio/static/js/2.530d2fdb.chunk.js.LICENSE.txt",
     "static/media/2.2380e25c.gif": "/imdadul-portfolio/static/media/2.2380e25c.gif",
     "static/media/favo.a0229ce0.jpg": "/imdadul-portfolio/static/media/favo.a0229ce0.jpg",
     "static/media/favo_1.300b664b.jpg": "/imdadul-portfolio/static/media/favo_1.300b664b.jpg",
@@ -25,10 +25,10 @@
     "static/media/ty_1.5e48c805.jpg": "/imdadul-portfolio/static/media/ty_1.5e48c805.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.319df09d.js",
+    "static/js/runtime-main.0929be25.js",
     "static/css/2.78afd4a5.chunk.css",
-    "static/js/2.6bdac34c.chunk.js",
+    "static/js/2.530d2fdb.chunk.js",
     "static/css/main.1a358431.chunk.css",
-    "static/js/main.a840d6ce.chunk.js"
+    "static/js/main.57006726.chunk.js"
   ]
 }
