@@ -5,14 +5,14 @@ import Home from "../src/components/Home";
 import About from "../src/components/About";
 import Contact from "../src/components/Contact";
 import Service from "../src/components/Service";
-import Navbar from "../src/components/Header/Navbar";
+import Navigation from "../src/components/Header/Navbar";
 import { Switch, Route, Redirect} from "react-router-dom";
 import Footer from "./components/Footer";
 
 const App = () =>{
   return(
     <>
-    <Navbar />
+    <Navigation />
       <Switch>
         <Route exact path="/" component= {Home} />
         <Route exact path="/about" component= {About} />
